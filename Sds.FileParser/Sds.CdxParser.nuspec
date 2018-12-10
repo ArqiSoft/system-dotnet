@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Sds.CdxParser</id>
+    <version>1.0.7</version>
+    <authors>Science Data Software</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CDX file reader</description>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Sds.FileParser.Domain" version="1.0.1" />
+        <dependency id="Indigo.Net" version="1.2.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Sds.CdxParser\bin\Release\Sds.CdxParser.dll" target="lib\net471\Sds.CdxParser.dll" />
+    <file src="Sds.CdxParser\bin\Release\Sds.CdxParser.pdb" target="lib\net471\Sds.CdxParser.pdb" />
+  </files>
+</package>

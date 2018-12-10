@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<AssemblyName>Sds.Heartbeat</AssemblyName>
+    <RootNamespace>Sds.Heartbeat</RootNamespace>
+  	<PackageId>Sds.Heartbeat</PackageId>
+    <PackageVersion>0.11.1</PackageVersion>
+    <Authors>Science Data Software</Authors>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) Science Data Software. All rights reserved.</Copyright>
+    <PackageTags>heartbeat</PackageTags>    
+    <Description>Heartbeat port listener, use for service monitorings</Description>
+    <Company>Science Data Software</Company>
+    <Product>Open Science Data Repository</Product>
+	
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sds.Reflection" Version="1.0.3" />
+    <PackageReference Include="Serilog" Version="2.5.0" />
+  </ItemGroup>
+
+</Project>

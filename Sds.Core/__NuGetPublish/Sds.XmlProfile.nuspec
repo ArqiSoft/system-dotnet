@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Sds.XmlProfile</id>
+        <version>1.0.1</version>
+        <authors>Science Data Software</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Xml based user's profile</description>
+    </metadata>
+    <files>
+        <file src="..\bin\Sds.XmlProfile.dll" target="lib\net462\Sds.XmlProfile.dll" />
+    </files>
+</package>

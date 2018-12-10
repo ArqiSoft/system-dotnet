@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Sds.RdfParser</id>
+    <version>1.0.7</version>
+    <authors>Science Data Software</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RDF file reader</description>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Sds.FileParser.Domain" version="1.0.1" />
+        <dependency id="Indigo.Net" version="1.2.3" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Sds.RdfParser\bin\Release\Sds.RdfParser.dll" target="lib\net47\Sds.RdfParser.dll" />
+    <file src="Sds.RdfParser\bin\Release\Sds.RdfParser.pdb" target="lib\net47\Sds.RdfParser.pdb" />
+  </files>
+</package>

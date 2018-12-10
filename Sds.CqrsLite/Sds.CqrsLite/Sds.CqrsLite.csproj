@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
+    <Version>2.0.2</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net47' ">
+    <Reference Include="Autofac" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Observers\Saga\ConsumeSagaObserver.cs" />
+    <None Include="Observers\Saga\IConsumeSagaObserver.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.6.2" />
+    <PackageReference Include="CqrsLite" Version="0.14.3" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.4.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="Scrutor" Version="2.2.1" />
+    <PackageReference Include="Serilog" Version="2.6.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Sds.CifParser</id>
+    <version>1.0.3</version>
+    <authors>Science Data Software</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>CIF file reader</description>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Sds.FileParser.Domain" version="1.0.1" />
+        <dependency id="IKVM" version="7.4.5196.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Sds.CifParser\bin\Release\Sds.CifParser.dll" target="lib\net471\Sds.CifParser.dll" />
+    <file src="Sds.CifParser\bin\Release\Sds.CifParser.pdb" target="lib\net471\Sds.CifParser.pdb" />
+    <file src="Sds.CifParser\bin\Release\Sds.Jmol.dll" target="lib\net471\Sds.Jmol.dll" />
+    <file src="Sds.CifParser\bin\Release\Sds.Jmol.pdb" target="lib\net471\Sds.Jmol.pdb" />
+    <file src="Sds.CifParser\bin\Release\Jmol.dll" target="lib\net471\Jmol.dll" />
+  </files>
+</package>

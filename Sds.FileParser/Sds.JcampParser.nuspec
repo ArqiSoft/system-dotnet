@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Sds.JcampParser</id>
+    <version>1.0.3</version>
+    <authors>Science Data Software</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Jcamp file reader</description>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.1">
+        <dependency id="Sds.FileParser.Domain" version="1.0.1" />
+        <dependency id="IKVM" version="7.4.5196.0" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="Sds.JcampParser\bin\Release\Sds.JcampParser.dll" target="lib\net471\Sds.JcampParser.dll" />
+    <file src="Sds.JcampParser\bin\Release\Sds.JcampParser.pdb" target="lib\net471\Sds.JcampParser.pdb" />
+    <file src="Sds.JcampParser\bin\Release\Sds.JSpecView.dll" target="lib\net471\Sds.JSpecView.dll" />
+    <file src="Sds.JcampParser\bin\Release\Sds.JSpecView.pdb" target="lib\net471\Sds.JSpecView.pdb" />
+    <file src="Sds.JcampParser\bin\Release\JSpecView.dll" target="lib\net471\JSpecView.dll" />
+  </files>
+</package>

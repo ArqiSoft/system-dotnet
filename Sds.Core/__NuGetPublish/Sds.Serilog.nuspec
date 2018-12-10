@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Sds.Serilog</id>
+        <version>1.0.0</version>
+        <authors>Science Data Software</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Serilog enrichersdeclaration and extended functionality</description>
+    </metadata>
+    <files>
+        <file src="..\bin\Sds.Serilog.dll" target="lib\net462\Sds.Serilog.dll" />
+    </files>
+</package>

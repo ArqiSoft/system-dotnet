@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
+    <Version>2.0.2-develop</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CqrsLite" Version="0.14.3" />
+    <PackageReference Include="MassTransit" Version="4.1.0.1432-develop" />
+  </ItemGroup>
+
+</Project>
