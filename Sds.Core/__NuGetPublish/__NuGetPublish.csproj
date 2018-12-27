@@ -43,8 +43,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Sds.Heartbeat.nuspec" />
-    <None Include="Sds.Domain.nuspec" />
     <None Include="Sds.XmlProfile.nuspec" />
     <None Include="Sds.Serilog.nuspec" />
     <None Include="Sds.Core.nuspec" />
