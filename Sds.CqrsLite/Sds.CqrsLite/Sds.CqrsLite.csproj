@@ -4,6 +4,10 @@
     <TargetFrameworks>netstandard2.0;net471</TargetFrameworks>
     <Version>2.0.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Authors>Science Data Software</Authors>
+    <Company>http://www.scidatasoft.com/</Company>
+    <Product>OSDR</Product>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DefineConstants>TRACE;DEBUG</DefineConstants>

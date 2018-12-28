@@ -17,7 +17,7 @@ namespace Sds.MassTransit.Observers
 
         public Task PostPublish<T>(PublishContext<T> context) where T : class
         {
-            Log.Information($"[Publish] Message {typeof(T)} with Id: {context.MessageId} successdully published");
+            Log.Information($"[Publish] Message {typeof(T)} with Id: {context.MessageId} successdully published. Message: {JsonConvert.SerializeObject(context.Message)}");
 
             return Task.CompletedTask;
         }

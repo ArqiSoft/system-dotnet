@@ -16,7 +16,7 @@ namespace Sds.MassTransit.Observers
 
         public async Task PostConsume<T>(ConsumeContext<T> context) where T : class
         {
-            Log.Information($"[Consume] Message {typeof(T)} with Id: {context.MessageId} successfully consumed");
+            Log.Information($"[Consume] Message {typeof(T)} with Id: {context.MessageId} successfully consumed. Message: {JsonConvert.SerializeObject(context.Message)}");
             await context.CompleteTask;
         }
 

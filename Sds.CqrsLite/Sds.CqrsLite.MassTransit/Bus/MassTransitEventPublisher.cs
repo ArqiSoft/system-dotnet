@@ -8,16 +8,25 @@ namespace Sds.CqrsLite.MassTransit
 {
     public class MassTransitEventPublisher : IEventPublisher
     {
-        private readonly IPublishEndpoint _endpoint;
+        private ConsumeContext _context;
 
-        public MassTransitEventPublisher(IPublishEndpoint endpoint)
+        public void SetContext(ConsumeContext context)
         {
-            _endpoint = endpoint ?? throw new ArgumentNullException(nameof(endpoint));
+            _context = context;
         }
 
         public async Task Publish<T>(T @event, CancellationToken cancellationToken) where T : class, IEvent
         {
-            await _endpoint.Publish(@event, @event.GetType(), cancellationToken);
+            if (_context == null)
+                throw new NullReferenceException(nameof(_context));
+
+            await _context.Publish(@event, @event.GetType(), c =>
+            {
+                if (_context.CorrelationId != null)
+                {
+                    c.Headers.Set("CorrelationId", _context.CorrelationId.ToString());
+                }
+            }, cancellationToken);
         }
     }
 }

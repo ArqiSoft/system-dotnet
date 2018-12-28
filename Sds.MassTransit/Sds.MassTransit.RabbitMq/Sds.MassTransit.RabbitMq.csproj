@@ -6,6 +6,10 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>3.0.4.0</AssemblyVersion>
     <FileVersion>3.0.4.0</FileVersion>
+    <Authors />
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Company>http://www.scidatasoft.com/</Company>
+    <Product>OSDR</Product>
   </PropertyGroup>
 
   <ItemGroup>

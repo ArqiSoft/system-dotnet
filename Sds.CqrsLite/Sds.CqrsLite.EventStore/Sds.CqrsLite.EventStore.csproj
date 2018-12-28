@@ -4,6 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>2.0.4</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <Authors>Science Data Software</Authors>
+    <Company>Science Data Software</Company>
+    <Product>Open Science Data Repository</Product>
   </PropertyGroup>
 
   <ItemGroup>
