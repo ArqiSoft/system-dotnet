@@ -1,5 +1,5 @@
 ﻿using System.Runtime.Serialization;
-using Sds;
+using Sds.Core;
 
 namespace Sds.JSpecView
 {

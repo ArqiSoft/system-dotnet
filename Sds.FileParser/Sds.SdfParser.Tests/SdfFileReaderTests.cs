@@ -60,16 +60,16 @@ namespace Sds.SdfParser.Tests
             }
         }
 
-        [Fact]
-        public void ReadSdfUsingIndigoMethod1MRecords()
-        {
-            var records = new SdfIndigoParser(File.Open("Resources\\chembl_23.sdf", FileMode.Open));
+        //[Fact]
+        //public void ReadSdfUsingIndigoMethod1MRecords()
+        //{
+        //    var records = new SdfIndigoParser(File.Open("Resources\\chembl_23.sdf", FileMode.Open));
 
-            foreach (var record in records)
-            {
-                Assert.IsType<FileParser.Record>(record);
-                Assert.NotNull(record.Data);
-            }
-        }
+        //    foreach (var record in records)
+        //    {
+        //        Assert.IsType<FileParser.Record>(record);
+        //        Assert.NotNull(record.Data);
+        //    }
+        //}
     }
 }

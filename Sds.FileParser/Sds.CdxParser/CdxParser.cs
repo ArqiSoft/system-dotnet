@@ -12,9 +12,9 @@ namespace Sds.CdxParser
     {
         private Indigo indigo = new Indigo();
 
-        private IEnumerable enumerator = null;
+        //private IEnumerable enumerator = null;
 
-        private int index = -1;
+        //private int index = -1;
 
         private IndigoObject reader = null;
 
@@ -57,7 +57,7 @@ namespace Sds.CdxParser
 
         public void Reset()
         {
-            index = 0;
+            //index = 0;
             current = null;
         }
 

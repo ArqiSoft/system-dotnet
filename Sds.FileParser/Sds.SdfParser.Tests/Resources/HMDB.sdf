@@ -1,0 +1,287 @@
+ 
+  ACD/Labs07231008142D
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.3412    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0138   -1.2083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3550   -1.2083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0276   -2.2675    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+>  <HMDB_ID>
+HMDB00002
+
+>  <HMDB_Name>
+1,3-Diaminopropane
+
+>  <cas_number>
+109-76-2
+
+>  <chebi_id>
+15725
+
+>  <description>
+1,3-Diaminopropane is a stable, flammable and highly hydroscopic fluid.  It is a polyamine that is normally quite toxic if swallowed, inhaled or absorbed through the skin.  It is a catabolic byproduct
+ of spermidine.  It is also a precursor in the enzymatic synthesis of beta-alanine.  1, 3-Diaminopropane is involved in the arginine/proline metabolic pathways and the beta-alanine metabolic pathway.
+
+>  <general_references>
+3757213|van den Berg GA, Muskiet FA, Kingma AW, van der Slik W, Halie MR: Simultaneous gas-chromatographic determination of free and acetyl-conjugated polyamines in urine. Clin Chem. 1986 Oct;32(10):1
+930-7.9226558|Kim KR, Paik MJ, Kim JH, Dong SW, Jeong DH: Rapid gas chromatographic profiling and screening of biologically active amines. J Pharm Biomed Anal. 1997 Jun;15(9-10):1309-18.; 5096953|Brem
+er HJ, Kohne E: The excretion of diamines in human urine. II. Cadaverine, putrescine, 1,3-diaminopropane, 2,2'-dithiobis(ethylamine) and spermidine in urine of patients with cystinuria and cystinlysin
+uria. Clin Chim Acta. 1971 May;32(3):407-18.1150841|Fleisher JH, Russell DH: Estimation of urinary diamines and polyamines by thin-layer chromatography. J Chromatogr. 1975 Jul 16;110(2):335-40.; 63246
+13|Blackburn P, Peterson CM: Thiol-disulfide interchange between cystine and N-2-mercaptoethyl-1, 3-diaminopropane as a potential treatment for cystinuria. Anal Biochem. 1984 Jan;136(1):31-8.; 293750|
+Aigner-Held R, Campbell RA, Daves GD Jr: Polyamine-pyridoxal Schiff bases in urine.  Proc Natl Acad Sci U S A. 1979 Dec;76(12):6652-5.; 8624793|Somayaji VV, Guay V, Peng Z, Sykes TR, Noujaim AA: Synth
+esis and evaluation of a new bifunctional chelating agent for the preparation of radioimmunoconjugates. Q J Nucl Med. 1995 Dec;39(4):300-10.3308180|van den Berg GA, Schaaf JM, Nagel GT, Teelken AW, Mu
+skiet FA: Determination of polyamines and metabolites in cerebrospinal fluid by isotope dilution mass fragmentography, and a clinical application. Clin Chim Acta. 1987 Jun 15;165(2-3):147-54.6713628|M
+uskiet FA, van den Berg GA, Kingma AW, Fremouw-Ottevangers DC, Halie MR: Total polyamines and their non-alpha-amino acid metabolites simultaneously determined in urine by capillary gas chromatography,
+ with nitrogen-phosphorus detector; and some clinical applications. Clin Chem. 1984 May;30(5):687-95.9464484|Lee SH, Suh JW, Chung BC, Kim SO: Polyamine profiles in the urine of patients with leukemia
+.  Cancer Lett. 1998 Jan 9;122(1-2):1-8.
+
+>  <iupac>
+Propane-1,3-diamine
+
+>  <kegg_compound_id>
+C00986
+
+>  <metlin_id>
+5081
+
+>  <omim_id>
+Not Available
+
+>  <pubchem_compound_id>
+428
+
+>  <secondary_id>
+Not Available
+
+>  <smiles_isomeric>
+NCCCN
+
+>  <Index>
+1,3-propanediamine
+
+>  <SMILES>
+NCCCN
+
+>  <InChI>
+InChI=1/C3H10N2/c4-2-1-3-5/h1-5H2
+
+$$$$
+
+  ACD/Labs07231008142D
+
+ 19 20  0  0  1  0  0  0  0  0  1 V2000
+    3.5888   -1.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9194   -2.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5968   -4.7420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9355   -7.9276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3226   -6.0485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4759   -6.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9195   -1.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9194   -4.6049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9195   -3.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5808   -2.3065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5888   -3.4517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6129   -8.0647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5403   -7.1211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5808    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5808   -4.6049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4598   -5.8227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2581   -7.7905    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0727   -3.9436    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  1  0  0  0
+  6 18  1  1  0  0  0
+  6 16  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 19  1  1  0  0  0
+  8 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  2  0  0  0  0
+M  END
+>  <HMDB_ID>
+HMDB00012
+
+>  <HMDB_Name>
+Deoxyuridine
+
+>  <cas_number>
+951-78-0
+
+>  <chebi_id>
+16450
+
+>  <description>
+2'-Deoxyuridine is a naturally occurring nucleoside. It is similar in chemical structure to uridine, but without the 2'-hydroxyl group.  It is considered to be an antimetabolite that is converted to d
+eoxyuridine triphosphate during DNA synthesis. Laboratory suppression of deoxyuridine is used to diagnose megaloblastic anemia due to vitamin B12 and folate deficiencies.
+
+>  <general_references>
+|Akhrem, A.A. et al., Org. Magn. Reson., 1979, 12, 247, (cmr); 15866500|Li KM, Rivory LP, Clarke SJ: Rapid quantitation of plasma 2'-deoxyuridine by high-performance liquid chromatography/atmospheric 
+pressure chemical ionization mass spectrometry and its application to pharmacodynamic studies in cancer patients. J Chromatogr B Analyt Technol Biomed Life Sci. 2005 Jun 5;820(1):121-30.       Epub 20
+05 Apr 19.9675653|Di Stefano G, Busi C, Derenzini M, Trere D, Fiume L: Conjugation of 5-fluoro-2'-deoxyuridine with lactosaminated poly-l-lysine to reduce extrahepatic toxicity in the treatment of hep
+atocarcinomas. Ital J Gastroenterol Hepatol. 1998 Apr;30(2):173-7.|Fox, J.J. et al., Adv. Carbohydr. Chem., 1959, 14, 283, (rev); |Rimerman, R.A. et al., J. Chromatogr., B: Biomed. Appl., 1993, 619, 2
+9-35, (5'-triphosphate); |Schinazi, R.F. et al., J. Med. Chem., 1978, 21, 1141, (synth, acid); |Barr, P.J. et al., Tetrahedron, 1980, 36, 1269, (cryst struct); |Ludwig, J. et al., Synthesis, 1982, 32-
+34, (5'-phosphate); 3812550|Reidy JA: Deoxyuridine increases folate-sensitive fragile site expression in human lymphocytes. Am J Med Genet. 1987 Jan;26(1):1-5.; |Dematte, N. et al., Comp. Biochem. Phy
+siol., B: Comp. Biochem., 1986, 84, 11, (isol, acid); |Rahman, A. et al., Acta Cryst. B, 1972, 28, 2260, (cryst struct); |Sakema, S. et al., Comp. Biochem. Physiol., B: Comp. Biochem., 1985, 82, 107-1
+09, (isol); |Aldrich Library of FT-IR Spectra, 1st edn., 1985, 2, 816A, (ir); |Kikugawa, K. et al., Chem. Pharm. Bull., 1969, 17, 785, (synth, deriv); 6656991|Eells JT, Spector R: Purine and pyrimidin
+e base and nucleoside concentrations in human cerebrospinal fluid and plasma. Neurochem Res. 1983 Nov;8(11):1451-7.; |Sprecher, C.A. et al., Biopolymers, 1977, 16, 2243, (cd); |Komori, T. et al., Anna
+len, 1980, 653-668, (isol); 1906076|Huong PL, Kolk AH, Eggelte TA, Verstijnen CP, Gilis H, Hendriks JT: Measurement of antigen specific lymphocyte proliferation using 5-bromo-deoxyuridine incorporatio
+n. An easy and low cost alternative to radioactive thymidine incorporation. J Immunol Methods. 1991 Jul 5;140(2):243-8.3761048|Kanazawa S, Herbert V: Detection of folate deficiency in alcoholism using
+ the peripheral blood lymphocyte deoxyuridine suppression test. J Nutr Sci Vitaminol (Tokyo). 1986 Jun;32(3):251-7.; |Aldrich Library of 13C and 1H FT NMR Spectra, 1992, 3, 374B, (nmr); |Hruska, F.E. 
+et al., Can. J. Chem., 1974, 52, 497, (conformn, pmr); |U.S. Pat., 1966, 3 280 104, CA, 66, 38207y; |Lidgren, G. et al., J. Nat. Prod., 1988, 51, 1277-1280, (2'-Deoxy-3-methyluridine); 9930567|Zittoun
+ J, Zittoun R: Modern clinical testing strategies in cobalamin and folate deficiency.  Semin Hematol. 1999 Jan;36(1):35-46.; 12638947|Fairbanks LD, Marinaki AM, Carrey EA, Hammans SR, Duley JA: Deoxyu
+ridine accumulation in urine in thymidine phosphorylase deficiency (MNGIE). J Inherit Metab Dis. 2002 Nov;25(7):603-4.; 2328792|Remacha A, Barcelo MJ, Pastor M, Ubeda J, Espadaler M, Gimferrer E: The 
+deoxyuridine suppression test in peripheral lymphocytes.  Eur J Haematol. 1990 Mar;44(3):196-200.; 11432631|Galanis E, Goldberg R, Reid J, Atherton P, Sloan J, Pitot H, Rubin J, Adjei AA, Burch P, Saf
+gren SL, Witzig TE, Ames MM, Erlichman C: Phase I trial of sequential administration of raltitrexed (Tomudex) and 5-iodo-2'-deoxyuridine (IdUrd). Ann Oncol. 2001 May;12(5):701-7.
+
+>  <iupac>
+1-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione
+
+>  <kegg_compound_id>
+C00526
+
+>  <metlin_id>
+5086
+
+>  <omim_id>
+Not Available
+
+>  <pubchem_compound_id>
+13712
+
+>  <secondary_id>
+Not Available
+
+>  <smiles_isomeric>
+OC[C@H]1O[C@H](C[C@@H]1O)N1C=CC(=O)NC1=O
+
+>  <Index>
+2(1H)-pyrimidinone, 1-(2-deoxy-beta-D-erythro-pentofuranosyl)-4-hydroxy-
+
+>  <SMILES>
+OC1=NC(=O)N(C=C1)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+>  <InChI>
+InChI=1/C9H12N2O5/c12-4-6-5(13)3-8(16-6)11-2-1-7(14)10-9(11)15/h1-2,5-6,8,12-13H,3-4H2,(H,10,14,15)/t5-,6+,8+/m0/s1
+
+$$$$
+
+  ACD/Labs07231008142D
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    4.4117   -2.6168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6398   -2.1728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2781   -1.8327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9677   -3.8733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9232   -0.8880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6412   -3.0608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2389   -2.6168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6452   -3.8733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1797   -0.4440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9124    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9071   -2.6452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9730   -2.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8894   -4.9786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1527   -1.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4470   -0.9164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  6  0  0  0
+  9 14  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+>  <HMDB_ID>
+HMDB00014
+
+>  <HMDB_Name>
+Deoxycytidine
+
+>  <cas_number>
+951-77-9
+
+>  <chebi_id>
+Not Available
+
+>  <description>
+One of the principal nucleosides of DNA composed of cytosine and deoxyribose. A nucleoside consists of only a pentose sugar linked to a purine or pyrimidine base, without a phosphate group. When N1 is
+ linked to the C1 of deoxyribose, deoxynucleosides and nucleotides are formed from cytosine and deoxyribose; deoxycytidine monophosphate (dCMP), deoxycytidine diphosphate (dCDP), deoxycytidine triphos
+phate (dCTP). CTP is the source of the cytidine in RNA (ribonucleic acid) and deoxycytidine triphosphate (dCTP) is the source of the deoxycytidine in DNA (deoxyribonucleic acid).
+
+>  <general_references>
+15203276|van den Bosch J, Lubbert M, Verhoef G, Wijermans PW: The effects of 5-aza-2'-deoxycytidine (Decitabine) on the platelet count in patients with intermediate and high-risk myelodysplastic syndr
+omes. Leuk Res. 2004 Aug;28(8):785-90.15116424|Lee SH, Jung BH, Kim SY, Chung BC: A rapid and sensitive method for quantitation of nucleosides in human urine using liquid chromatography/mass spectrome
+try with direct urine injection. Rapid Commun Mass Spectrom. 2004;18(9):973-7.|Maley, F. et al., J. Biol. Chem., 1958, 233, 1538-1543, (5-diphosphate); |Charubala, R. et al., Synthesis, 1984, 965-968,
+ (5'-(4,4'-dimethoxytrityl) 4N-benzoyl); |Schaller, H. et al., J.A.C.S., 1963, 85, 3821-3827, (5'-(4,4'-dimethoxytrityl) 4N-benzoyl); |Benz, E. et al., J.O.C., 1965, 30, 3067-3071, (4N-benzoyl, 5'-tos
+yl, 3',4N-dibenzoyl, 4N,5'-dibenzoyl, 5'-tosyl 4N-benzoyl, 5'-trityl 3',4N-dibenzoyl); |Hruska, F.E. et al., Can. J. Chem., 1974, 52, 497-508, (pmr); 6714272|Wepierre J, Marty JP, Chanal JL, Sincholle
+ D: Percutaneous absorption of 5-iodo-2' deoxycytidine in the hairless rat and in man. Eur J Drug Metab Pharmacokinet. 1984 Jan-Mar;9(1):79-83.; |Jones, A.J. et al., Proc. Natl. Acad. Sci. U.S.A., 197
+0, 65, 27-30, CA, 72, 96682j, (cmr); |Miles, H.T., J.A.C.S., 1963, 85, 1007-1008, (ir, pmr); |Young, D.W. et al., Acta Cryst. B, 1975, 31, 961-965, (cryst struct); 12171902|Coral S, Sigalotti L, Altom
+onte M, Engelsberg A, Colizzi F, Cattarossi I, Maraskovsky E, Jager E, Seliger B, Maio M: 5-aza-2'-deoxycytidine-induced expression of functional cancer testis antigens in human renal cell carcinoma: 
+immunotherapeutic implications. Clin Cancer Res. 2002 Aug;8(8):2690-5.|Michelson, A.M. et al., J.C.S., 1954, 34-40, (phosphates, 3',4N-di-Ac, 5'-trityl, 5'-trityl 3',4N-di-Ac); |Lewis, R.J., Sax's Dan
+gerous Properties of Industrial Materials, 8th edn., Van Nostrand Reinhold, 1992, DAQ850; |Aldrich Library of 13C and 1H FT NMR Spectra, 1992, 3, 396A, 396C, (nmr); |Stawinski, J. et al., Chem. Comm.,
+ 1976, 243-244, (3',4N,5'-tribenzoyl); |Ulbricht, T.L.V. et al., J.C.S., 1965, 6134-6135, (3N-Me); |Wang, Z. et al., J.O.C., 2000, 65, 5969-5985, (synth, ir, pmr, cmr); |Saneyoshi, M. et al., Nucleic 
+Acids Res., 1981, 9, 3129-3138, (5'-triphosphate, synth, uv, biochem); |Fox, J.J. et al., Adv. Carbohydr. Chem., 1959, 14, 283-380, (rev, derivs); |Saladino, R. et al., Tetrahedron, 1996, 52, 6759-678
+0, (4N-Me, 4N-Et, 4N-(4-methylphenyl), synth, pmr, cmr); |Aldrich Library of FT-IR Spectra, 1st edn., 1985, 2, 832B, 838D, 839C, (ir); 3243806|Olivares J, Verdys M: Isocratic high-performance liquid c
+hromatographic method for studying the metabolism of blood plasma pyrimidine nucleosides and bases: concentration and radioactivity measurements. J Chromatogr. 1988 Dec 29;434(1):111-21.|Yang, J.T. et
+ al., CA, 1966, 65, 12454, (ord)
+
+>  <iupac>
+4-amino-1-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-pyrimidin-2-one
+
+>  <kegg_compound_id>
+C00881
+
+>  <metlin_id>
+3367
+
+>  <omim_id>
+Not Available
+
+>  <pubchem_compound_id>
+13711
+
+>  <secondary_id>
+Not Available
+
+>  <smiles_isomeric>
+NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](CO)O1
+
+>  <Index>
+cytidine, 2'-deoxy-
+
+>  <SMILES>
+NC1=NC(=O)N(C=C1)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+>  <InChI>
+InChI=1/C9H13N3O4/c10-7-1-2-12(9(15)11-7)8-3-5(14)6(4-13)16-8/h1-2,5-6,8,13-14H,3-4H2,(H2,10,11,15)/t5-,6+,8+/m0/s1
+
+$$$$
